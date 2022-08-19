@@ -1,12 +1,6 @@
 FROM php:7.4-fpm
 
 
-
-
-
-
-
-
 # Dependent installation
 RUN apt-get update
 
